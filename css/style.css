@@ -1010,7 +1010,7 @@ ul.social-buttons li a:active {
 	background: -moz-linear-gradient(left, #c9363f 0%, #ab2d35 35%, #88262c 68%, #732227 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, #c9363f 0%,#ab2d35 35%,#88262c 68%,#732227 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(to right, #c9363f 0%,#ab2d35 35%,#88262c 68%,#732227 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9363f', endColorstr='#88262c',GradientType=1 ); /* IE6-9 */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9363f', endColorstr='#',GradientType=1 ); /* IE6-9 */
 }
 
 .jumbotron.jumbotron-main hr {
@@ -1525,10 +1525,10 @@ span.portfolio-hover {
 	-o-transition: opacity 500ms;
 	transition: opacity 500ms;
 	background: #c9363f; /* Old browsers */
-	background: -moz-linear-gradient(left, #c9363f 0%, #7437d0 35%, #615fde 68%, #6980f2 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(left, #c9363f 0%,#7437d0 35%,#615fde 68%,#6980f2 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, #c9363f 0%,#7437d0 35%,#615fde 68%,#6980f2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9363f', endColorstr='#6980f2',GradientType=1 ); /* IE6-9 */
+	background: -moz-linear-gradient(left, #c9363f 0%, #ab2d35 35%, #88262c 68%, #732227 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #c9363f 0%,#ab2d35 35%,#88262c 68%,#732227 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #c9363f 0%,#ab2d35 35%,#88262c 68%,#732227 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9363f', endColorstr='#',GradientType=1 ); /* IE6-9 */
 }
 
 .portfolio-image-holder {
