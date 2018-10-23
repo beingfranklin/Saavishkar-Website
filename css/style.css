@@ -357,13 +357,11 @@ button:hover,
 }
 
 .btn-default:hover {
-    color: #fff;
-    background-color: #c9363f;
+    text-decoration: none !important;
     border-color: #c9363f;
 }
 
 .btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .open>.dropdown-toggle.btn-default.focus, .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover {
-    color: #fff;
     background-color: #c9363f;
     border-color: #c9363f;
 }
