@@ -1,6 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:700,400,300,100%7CMontserrat:400,700");
 
 
+
+
 .feedback {
     background-color : #732227;
     color: white;
@@ -1021,7 +1023,7 @@ ul.social-buttons li a:active {
 }
 
 .parallax-window {
-    background: transparent;
+    background:transparent;
 }
 
 
