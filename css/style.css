@@ -1698,7 +1698,7 @@ span.portfolio-hover a {
 .pricing-clients {
 	width: 150px;
 	display: inline-block;
-	opacity: .6;
+	opacity: 1;
 	-webkit-transition: opacity 1s ease-in-out;
 	-moz-transition: opacity 1s ease-in-out;
 	-o-transition: opacity 1s ease-in-out;
